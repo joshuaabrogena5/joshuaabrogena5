@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+- Hi, I’m Joshua, you can call me Josh
+- I’m interested in learning more about how machines and computers work
+- I’m currently learning Electronics Engineering 
+- I'm originally from the Philippines
+- I'm a Sophomore in Computer Engineering 
+- I chose my major because I'm always eager to learn and use my knowledge towards my goals
+- A fun fact about me is:  I've ran cross country in ninth grade and got first place once. 
+- What do I want to learn from EE 205?  I want to really get the concept of coding down and use it to learn other languages. 
+- A book or movie I'd recommend is:  Oppenheimer
+
 <!--
 **joshuaabrogena5/joshuaabrogena5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
